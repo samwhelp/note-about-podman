@@ -206,4 +206,4 @@ version:
 
 ## 接下來
 
-> 接下來了解「`image 入門操作`」。
+> 接下來了解「[image 入門操作](image.html)」。
