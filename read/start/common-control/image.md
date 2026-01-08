@@ -16,6 +16,7 @@ grand_parent: 入門
 
 * [pull](#pull)
 * [相關設定檔](#相關設定檔)
+* [list](#list)
 
 
 
@@ -61,4 +62,28 @@ cat /etc/containers/registries.conf
 
 ``` sh
 cat /etc/containers/registries.conf.d/shortnames.conf
+```
+
+
+
+
+## list
+
+執行
+
+``` sh
+podman images
+```
+
+或是執行
+
+``` sh
+podman image list
+```
+
+顯示
+
+```
+REPOSITORY                   TAG         IMAGE ID      CREATED     SIZE
+docker.io/library/archlinux  latest      eddb1ff8c1c6  2 days ago  535 MB
 ```
