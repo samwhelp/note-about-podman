@@ -48,8 +48,8 @@ eddb1ff8c1c65c7a3bc3d3b2bf28d1ac30edc9ab525c1cdfaaa652c462db7c1e
 
 | 相關設定檔 |
 | --------- |
-| `/etc/containers/registries.conf` |
-| `/etc/containers/registries.conf.d/shortnames.conf` (Debian) |
+| [/etc/containers/registries.conf](https://github.com/samwhelp/note-about-podman/blob/gh-pages/_demo/sample/config/debian/etc/containers/registries.conf) |
+| [/etc/containers/registries.conf.d/shortnames.conf](https://github.com/samwhelp/note-about-podman/blob/gh-pages/_demo/sample/config/debian/etc/containers/registries.conf.d/shortnames.conf) (Debian) |
 
 執行下面指令，觀看「`/etc/containers/registries.conf`」這個檔案的內容。
 
