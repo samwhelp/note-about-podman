@@ -206,4 +206,4 @@ version:
 
 ## 接下來
 
-> 接下來，了解「[image的入門操作](image.html)」。
+> 接下來，了解「[關於「image」的入門操作](image.html)」。

@@ -74,5 +74,5 @@ podman version 5.4.2
 
 ## 接下來
 
-> 接下來，了解「[machine的入門操作](https://samwhelp.github.io/note-about-podman/read/start/common-control/machine.html)」。
+> 接下來，了解「[關於「machine」的入門操作](https://samwhelp.github.io/note-about-podman/read/start/common-control/machine.html)」。
 
