@@ -21,6 +21,15 @@ has_children: true
 
 
 
+## gvproxy
+
+| gvproxy |
+| ------- |
+| GitHub / [gvisor-tap-vsock](https://github.com/containers/gvisor-tap-vsock)  / [Releases](https://github.com/containers/gvisor-tap-vsock/releases) |
+
+
+
+
 ## Just the Docs
 
 * [Just the Docs](https://pmarsceill.github.io/just-the-docs/) ([GitHub](https://github.com/pmarsceill/just-the-docs))
