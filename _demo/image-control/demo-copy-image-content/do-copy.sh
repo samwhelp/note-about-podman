@@ -3,6 +3,10 @@
 
 
 
+##
+## ## path
+##
+
 rootfs_dir_path="tmp/rootfs"
 
 
