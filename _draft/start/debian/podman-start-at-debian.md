@@ -769,3 +769,109 @@ run image by name (localhost/demo-image)
 ``` sh
 podman run localhost/demo-image
 ```
+
+
+
+
+## image mount
+
+### image mount / help
+
+run
+
+``` sh
+podman image mount -h
+```
+
+show
+
+```
+Mount an image's root filesystem
+
+Description:
+  podman image mount
+    Lists all mounted images mount points if no images is specified
+
+  podman image mount IMAGE-NAME-OR-ID
+    Mounts the specified image and prints the mountpoint
+
+
+Usage:
+  podman image mount [options] [IMAGE...]
+
+Examples:
+  podman image mount imgID
+  podman image mount imgID1 imgID2 imgID3
+  podman image mount
+  podman image mount --all
+
+Options:
+  -a, --all             Mount all images
+      --format string   Print the mounted images in specified format (json)
+```
+
+
+### image mount / error
+
+run
+
+``` sh
+podman image mount demo-image
+```
+
+show
+
+```
+Error: cannot run command "podman image mount" in rootless mode, must execute `podman unshare` first
+```
+
+
+
+### image mount / steps
+
+run
+
+``` sh
+podman unshare
+```
+
+then run
+
+``` sh
+mnt_dir_path=$(podman image mount demo-image)
+```
+
+then run
+
+``` sh
+ls -1 $mnt_dir_path
+```
+
+show
+
+```
+bin
+dev
+etc
+home
+info.txt
+lib
+media
+mnt
+opt
+proc
+root
+run
+sbin
+srv
+sys
+tmp
+usr
+var
+```
+
+then exit
+
+``` sh
+exit
+```
