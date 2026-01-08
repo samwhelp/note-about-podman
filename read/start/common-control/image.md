@@ -192,6 +192,15 @@ test
 
 
 
+run in interactive mode
+
+``` sh
+podman run -it --rm --name myarch archlinux
+```
+
+
+
+
 ## mount
 
 先執行
