@@ -16,3 +16,5 @@ parent: 入門
 | 主題 |
 | --- |
 | [如何在「Debian」，安裝「Podman」](debian/install.html) |
+| [關於「machine」的入門操作](common-control/machine.html) |
+| [關於「image」的入門操作](common-control/machine.html) |
