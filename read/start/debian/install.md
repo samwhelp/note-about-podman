@@ -16,6 +16,7 @@ grand_parent: 入門
 
 * [安裝](#安裝)
 * [版本](#版本)
+* [接下來](#接下來)
 
 
 
@@ -67,3 +68,11 @@ podman --verison
 ```
 podman version 5.4.2
 ```
+
+
+
+
+## 接下來
+
+> 接下來，了解「[machine的入門操作](https://samwhelp.github.io/note-about-podman/read/start/common-control/machine.html)」。
+
