@@ -7,9 +7,9 @@
 
 ## steps
 
-* [create.sh](#create.sh)
-* [build.sh](#build.sh)
-* [run.sh](#run.sh)
+* [create.sh](#createsh)
+* [build.sh](#buildsh)
+* [run.sh](#runsh)
 
 
 
