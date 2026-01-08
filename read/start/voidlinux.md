@@ -1,6 +1,6 @@
 ---
 title: 入門 / Podman / Void Linux
-nav_order: 1010
+nav_order: 1020
 has_children: true
 parent: 入門
 ---
