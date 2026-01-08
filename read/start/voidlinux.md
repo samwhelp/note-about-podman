@@ -15,4 +15,4 @@ parent: 入門
 
 | 主題 |
 | --- |
-| [安裝Podman](voidlinux/install) |
+| [安裝Podman](voidlinux/install.html) |

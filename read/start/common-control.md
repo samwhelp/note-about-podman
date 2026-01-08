@@ -15,4 +15,5 @@ parent: 入門
 
 | 主題 |
 | --- |
-| [建立machine](common-control/machine) |
+| [machine 入門操作](common-control/machine.html) |
+| [image　入門操作](common-control/machine.html) |

@@ -14,5 +14,5 @@ has_children: true
 
 | Distro |
 | ------ |
-| [Debian](start/debian) |
-| [Void Linux](start/voidlinux) |
+| [Debian](start/debian.html) |
+| [Void Linux](start/voidlinux.html) |

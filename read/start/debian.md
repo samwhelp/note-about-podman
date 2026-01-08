@@ -15,4 +15,4 @@ parent: 入門
 
 | 主題 |
 | --- |
-| [安裝Podman](debian/install) |
+| [安裝Podman](debian/install.html) |
