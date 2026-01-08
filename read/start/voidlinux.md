@@ -17,4 +17,4 @@ parent: 入門
 | --- |
 | [如何在「Void Linux」，安裝「Podman」](voidlinux/install.html) |
 | [關於「machine」的入門操作](common-control/machine.html) |
-| [關於「image」的入門操作](common-control/machine.html) |
+| [關於「image」的入門操作](common-control/image.html) |

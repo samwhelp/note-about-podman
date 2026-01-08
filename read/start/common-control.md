@@ -16,4 +16,4 @@ parent: 入門
 | 主題 |
 | --- |
 | [關於「machine」的入門操作](common-control/machine.html) |
-| [關於「image」的入門操作](common-control/machine.html) |
+| [關於「image」的入門操作](common-control/image.html) |
