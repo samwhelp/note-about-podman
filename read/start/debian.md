@@ -1,12 +1,12 @@
 ---
-title: 入門 / Podman / Debian
+title: Podman / Debian
 nav_order: 1010
 has_children: true
 parent: 入門
 ---
 
 
-# 入門 / Podman / Debian
+# Podman / Debian
 
 
 

@@ -1,12 +1,12 @@
 ---
-title: 入門 / Podman / Void Linux
+title: Podman / Void Linux
 nav_order: 1020
 has_children: true
 parent: 入門
 ---
 
 
-# 入門 / Podman / Void Linux
+# Podman / Void Linux
 
 
 

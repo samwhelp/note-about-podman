@@ -2,12 +2,12 @@
 title: 如何在「Debian」，安裝「Podman」
 nav_order: 1010
 has_children: false
-parent: 入門 / Podman / Debian
+parent: Podman / Debian
 grand_parent: 入門
 ---
 
 
-# 入門 / Podman / Debian / 安裝
+# 如何在「Debian」，安裝「Podman」
 
 
 

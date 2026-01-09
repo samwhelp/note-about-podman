@@ -2,7 +2,7 @@
 title: 關於「image」的入門操作
 nav_order: 1020
 has_children: false
-parent: 入門 / Podman / 入門操作
+parent: Podman / 入門操作
 grand_parent: 入門
 ---
 

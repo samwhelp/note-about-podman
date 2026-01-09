@@ -1,12 +1,12 @@
 ---
-title: 入門 / Podman / 入門操作
+title: Podman / 入門操作
 nav_order: 1500
 has_children: true
 parent: 入門
 ---
 
 
-# 入門 / Podman / 入門操作
+# Podman / 入門操作
 
 
 
