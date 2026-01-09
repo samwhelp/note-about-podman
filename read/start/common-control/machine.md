@@ -1,5 +1,5 @@
 ---
-title: 入門 / Podman / 入門操作 / machine
+title: 關於「machine」的入門操作
 nav_order: 1010
 has_children: false
 parent: 入門 / Podman / 入門操作
@@ -7,7 +7,7 @@ grand_parent: 入門
 ---
 
 
-# 入門 / Podman / 入門操作 / machine
+# 關於「machine」的入門操作
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: 入門 / Podman / Debian / 安裝
+title: 如何在「Debian」，安裝「Podman」
 nav_order: 1010
 has_children: false
 parent: 入門 / Podman / Debian
