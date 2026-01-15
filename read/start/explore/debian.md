@@ -2,7 +2,7 @@
 title: 如何在「Debian」，安裝「Podman」的初探紀錄
 nav_order: 1020
 has_children: false
-parent: Podman / Debian
+parent: Podman / 初探
 grand_parent: 入門
 ---
 
