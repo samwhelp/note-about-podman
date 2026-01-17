@@ -1,4 +1,4 @@
-From alpine
+FROM alpine
 
 COPY info.txt /info.txt
 
